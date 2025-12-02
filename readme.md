@@ -12,7 +12,7 @@ O site hospedado pelo **GitHub Pages** deste repositório possui uma única fina
 
 Para visualizar meu trabalho e experiência completos, você será (ou foi) redirecionado para:
 
-[**[Link para o seu Site Oficial Aqui]**](**https://gleristoncastro.com**)
+[**[https://gleristoncastro.com]**](https://gleristoncastro.com)
 
 ---
 
