@@ -12,7 +12,7 @@ O site hospedado pelo **GitHub Pages** deste repositório possui uma única fina
 
 Para visualizar meu trabalho e experiência completos, você será (ou foi) redirecionado para:
 
-[**[Link para o seu Site Oficial Aqui]**](**INSIRA A URL COMPLETA DO SEU SITE AQUI**)
+[**[Link para o seu Site Oficial Aqui]**](**https://gleristoncastro.com**)
 
 ---
 
@@ -22,6 +22,6 @@ A página `index.html` deste repositório contém um script simples em JavaScrip
 
 ```html
 <script>
-  window.location.replace("INSIRA A URL COMPLETA DO SEU SITE AQUI");
+  window.location.replace("https://gleristoncastro.com");
 </script>
 ```
